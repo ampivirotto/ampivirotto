@@ -22,4 +22,5 @@ Hi!  My name is Alyssa!
 - 📫 How to reach me: apivirotto@brynmawr.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I just finished my doctorate in bioinformatics from Temple University in April 2024. 
-![Alyssa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ampivirotto&show_icons=true&theme=transparent)
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ampivirotto?cardType=octocat&theme=blueberry&preferLogin=false)](https://git.io/awesome-stats-card)
