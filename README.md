@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![Alyssa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ampivirotto&show_icons=true&theme=transparent)
 -->
+Hi!  My name is Alyssa!
 
+- 🔭 I’m currently the Data Science Instructional Support Coordinator at Bryn Mawr College in Bryn Mawr, Pennsylvania (right outside of Philadelphia!).
+- 💬 Ask me about my class in Data Feminism (Spring 2025)!
+- 📫 How to reach me: apivirotto@brynmawr.edu
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I just finished my doctorate in bioinformatics from Temple University in April 2024. 
+![Alyssa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ampivirotto&show_icons=true&theme=transparent)
